@@ -3,5 +3,7 @@ EDI 코드 문자열이 포함 된 엑셀, 워드, 텍스트 파일을 인자로
 요약 테이블을 site에서 스크랩핑 하여 csv파일로 돌려줌
 
 사용예시 
+
 druginfoScraper.py file.xls file.doc file.txt
+
 druginfoScraper.py 600201022 606854187 606854187 606854187 606854187
